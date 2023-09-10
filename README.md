@@ -1,2 +1,3 @@
 # swagat
-this is my first github repository
+This is My first Github Repository.
+Author- Swagat Kumar Dash
